@@ -27,4 +27,3 @@ spec:
   type: module
   lifecycle: experimental
   owner: "user:default/mila-dt-ons"
-  system: "don't yet know"
