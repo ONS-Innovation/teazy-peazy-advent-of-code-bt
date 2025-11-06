@@ -27,3 +27,4 @@ spec:
   type: module
   lifecycle: experimental
   owner: "user:default/mila-dt-ons"
+  system: "system:default/trial-team"  
